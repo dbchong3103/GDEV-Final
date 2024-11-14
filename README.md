@@ -1,7 +1,7 @@
 # GDEV-Final
 GDEV Final - Into The Abyss
 
-A sideview RPG where (hopefully) players can choose between 3 characters that each have their own unique skills sets.
+A sidescrolling RPG where (hopefully) players can choose between 3 characters that each have their own unique skills sets.
 Each character will have a base skill, a secondary skill they unlock and a movement ability they unlock as well.
 The goal of the game is to successfully traverse through the abyss and retrieve a lost treasure.
 Throughout the game platers may unlock new skills and weapons to aid them through their quest.
